@@ -259,3 +259,13 @@ a:link :visited {
 .img-container img {
   padding-bottom: 30px;
 }
+div.btn {
+  color: white;
+  background: #17A2B8;
+  width: 200px;
+  height: 40px;
+  text-align: center;
+  font-size: 2rem;
+  border-radius: 10px;
+  padding-top: 10px;
+}
